@@ -1,5 +1,8 @@
 _repo: The-Lathe-Its-Uses-Or-Instruction-in-the-Art-of-Turning-Wood-and-Metal-Including-a-Descriptio__60819
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60819-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60819#The-Lathe-Its-Uses-Or-Instruction-in-the-Art-of-Turning-Wood-and-Metal-Including-a-Descriptio_
 gutenberg_issued: '2019-11-30'
 gutenberg_type: Text
 identifiers:
